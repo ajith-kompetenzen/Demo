@@ -1,2 +1,2 @@
 Branch A added First line
-Branch A added second line
+Branch B edited second line..
