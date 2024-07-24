@@ -1,1 +1,2 @@
 Branch A added First line
+Branch A added second line
