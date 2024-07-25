@@ -2,3 +2,4 @@ Branch A added First line
 Branch A Edited second line
 Branch B added third line
 Branch BB  added third line
+Branch B added 5th line
